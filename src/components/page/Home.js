@@ -20,7 +20,7 @@ class Home extends React.Component {
     getResumeData(){
         const load = document.getElementById('siteLoading')
       $.ajax({
-        url:'/resumeData.json',
+        url:'./resumeData.json',
         dataType:'json',
         cache: false,
         success: function(data){
