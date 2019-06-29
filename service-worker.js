@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Huu-Dang-personal-resume/precache-manifest.03ce3b886771c24ce84f2a211119f35c.js"
+  "/Huu-Dang-personal-resume/precache-manifest.770c972de93660dd4733def2a163c373.js"
 );
 
 self.addEventListener('message', (event) => {

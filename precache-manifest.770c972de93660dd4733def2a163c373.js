@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0baa44ca9b2a877f6d34318374fa4850",
+    "revision": "e92985e4c80c7258f114eebb83105580",
     "url": "/Huu-Dang-personal-resume/index.html"
   },
   {
-    "revision": "f97ef9c91f9a7a590ac2",
+    "revision": "ca7274bf224bd0564ae1",
     "url": "/Huu-Dang-personal-resume/static/css/main.2b9e8329.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Huu-Dang-personal-resume/static/js/2.54c69034.chunk.js"
   },
   {
-    "revision": "f97ef9c91f9a7a590ac2",
-    "url": "/Huu-Dang-personal-resume/static/js/main.a31888ef.chunk.js"
+    "revision": "ca7274bf224bd0564ae1",
+    "url": "/Huu-Dang-personal-resume/static/js/main.35d12a05.chunk.js"
   },
   {
     "revision": "43920206fff887c984e6",
