@@ -1,4 +1,5 @@
 import React from 'react';
+import $ from 'jquery';
 
 import Navbar from '../layout/Navbar'
 import AboutMe from '../layout/AboutMe'
@@ -16,17 +17,23 @@ class Home extends React.Component {
         }
     }
     
-    getResumeData = async() => {
+    getResumeData(){
         const load = document.getElementById('siteLoading')
-        const url = '/resumeData.json'
-        const api_call = await fetch(url)
-        const data = await api_call.json()
-        this.setState({
-            resumeData: data
-        })
-        setTimeout(() => {
-            load.outerHTML=''
-        },500)
+      $.ajax({
+        url:'/resumeData.json',
+        dataType:'json',
+        cache: false,
+        success: function(data){
+          this.setState({resumeData: data});
+          setTimeout(()=>{
+            load.outerHTML='';
+          },500)
+        }.bind(this),
+        error: function(xhr, status, err){
+          console.log(err);
+          alert(err);
+        }
+      });
     }
 
     componentDidMount() {
