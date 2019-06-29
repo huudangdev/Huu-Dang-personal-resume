@@ -33,6 +33,11 @@ class Home extends React.Component {
           console.log(err);
           alert(err);
         }
+      }, {
+        headers : { 
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        }
       });
     }
 
