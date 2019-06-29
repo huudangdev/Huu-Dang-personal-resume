@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Huu-Dang-personal-resume/static/css/main.2b9e8329.chunk.css",
-    "main.js": "/Huu-Dang-personal-resume/static/js/main.35d12a05.chunk.js",
-    "main.js.map": "/Huu-Dang-personal-resume/static/js/main.35d12a05.chunk.js.map",
+    "main.js": "/Huu-Dang-personal-resume/static/js/main.81e4b437.chunk.js",
+    "main.js.map": "/Huu-Dang-personal-resume/static/js/main.81e4b437.chunk.js.map",
     "runtime~main.js": "/Huu-Dang-personal-resume/static/js/runtime~main.1aa94492.js",
     "runtime~main.js.map": "/Huu-Dang-personal-resume/static/js/runtime~main.1aa94492.js.map",
     "static/js/2.54c69034.chunk.js": "/Huu-Dang-personal-resume/static/js/2.54c69034.chunk.js",
     "static/js/2.54c69034.chunk.js.map": "/Huu-Dang-personal-resume/static/js/2.54c69034.chunk.js.map",
     "index.html": "/Huu-Dang-personal-resume/index.html",
-    "precache-manifest.770c972de93660dd4733def2a163c373.js": "/Huu-Dang-personal-resume/precache-manifest.770c972de93660dd4733def2a163c373.js",
+    "precache-manifest.3dbfd39a80ee97a1a7ae571f317ec2a9.js": "/Huu-Dang-personal-resume/precache-manifest.3dbfd39a80ee97a1a7ae571f317ec2a9.js",
     "service-worker.js": "/Huu-Dang-personal-resume/service-worker.js",
     "static/css/main.2b9e8329.chunk.css.map": "/Huu-Dang-personal-resume/static/css/main.2b9e8329.chunk.css.map"
   }
