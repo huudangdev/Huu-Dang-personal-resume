@@ -136,6 +136,12 @@
         "category":"Movie App for Fans",
         "image":"starwar.png",
         "url":"https://github.com/huudangdev/Express.js-App-StarWarMovie"
+      },
+      {
+        "title":"Personal Profile",
+        "category":"what you are experiencing",
+        "image":"screen-demo.png",
+        "url":""
       }
     ]
   },
