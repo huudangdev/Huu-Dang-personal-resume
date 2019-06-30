@@ -18,23 +18,23 @@ class App extends Component {
     }
 }
 
-getResumeData(){
+  getResumeData(){
     const load = document.getElementById('siteLoading')
-  $.ajax({
-    url:'/resumeData.json',
-    dataType:'json',
-    cache: false,
-    success: function(data){
-      this.setState({resumeData: data});
-      setTimeout(()=>{
-        load.outerHTML='';
-      },500)
-    }.bind(this),
-    error: function(xhr, status, err){
-      console.log(err);
-      alert(err);
-    }
-  }, {
+    $.ajax({
+      url:`${process.env.PUBLIC_URL}/resumeData.json`,
+      dataType:'json',
+      cache: false,
+      success: function(data){
+        this.setState({resumeData: data});
+        setTimeout(()=>{
+          load.outerHTML='';
+        },500)
+      }.bind(this),
+      error: function(xhr, status, err){
+        console.log(err);
+        alert(err);
+      }
+    }, {
     headers : { 
       'Content-Type': 'application/json',
       'Accept': 'application/json'
