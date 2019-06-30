@@ -2,11 +2,11 @@
   "main": {
     "name":"Dang",
     "fullname": "Nguyen Tran Huu Dang",
-    "university": "Information of Technology University",
+    "university": "University of Information Technology",
     "occupation":"Software Engineering Student",
     "description":"While it may seem small, the ripple effects of small things is extraordinary. . .",
     "image":"profilepic.jpg",
-    "bio": "During my school years I was a student who was not good but hard to find and wanted to learn new things. My desire is to work in a professional environment and help one another. I like creativity, always looking exciting in each project. I am lucky to find the passion of programming early, so I try every day to be more professional. I love books and spend a lot of time with them. Also, jogging is the sport I feel fit. When I was free, I learned about art, culture, history.",
+    "bio": "During my school years I was not an excellent student, however, I always try hard to find and learn new things. My desire is to work in a professional environment and help one another. I'm fascinated by creativity, always looking for excitement in each project. I was fortunate to find the passion of programming early, so every day i try to be more professional. I'm addicted to books and spend a lot of time with them. Moreover, jogging is the sport I feel fit. In my free time, I learn culture and history.",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email if you'd like to get in contact with me.",
     "email": "dang.nguyentranhuu@gmail.com",
     "phone": "0386968950",
@@ -48,27 +48,27 @@
     ]
   },
   "resume":{
-    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies.",
+    "skillmessage":"I'm not only a tinkerer but i'm also interested in playing around with new technologies.",
     "education":[
       {
         "school":"Tran Hung Dao specialized and gifted high school",
         "degree":"",
-        "graduated":"May 2018",
-        "description":"I have an information technology background when studying in high school. Here, I won a few small awards for algorithmic programming competitions. And most importantly, I focused more on becoming an professional programmer."
+        "graduated":"Aug 2015 - May 2018",
+        "description":"I have an information technology background when studying in high school. I won a few small awards for algorithmic programming competitions. And most importantly, I focused more on becoming an professional programmer."
       },
       {
-        "school":"Information of Technology University",
+        "school":"University of Information Technology",
         "degree":"Software Engineering",
         "graduated":"Aug 2018 - Present",
-        "description":"One of the leading schools in information technology in Vietnam. Here, I improved my self-study ability and teamwork skills. Currently, I am focusing more on web developer and hope to become an excellent programmer"
+        "description":"One of the leading schools in information technology in Vietnam. I improved my self-study ability and teamwork skills. Currently, I am focusing more on web development and i hope to become an excellent programmer."
       }
     ],
     "work":[
       {
         "company":"Gameloft SEA",
-        "title":"[Intern] Game Developer",
+        "title":"[Intern] Game Development",
         "years":"Dec 2018 - Jan 2019",
-        "description":"I learned a lot in here, from professional knowledge to soft skills. It helps me get closer than to my goal. See more of my review about company at "
+        "description":"I learned a lot here, from professional knowledge to soft skills. It helps me get closer than to my goal. See more of my review about company "
       }
     ],
     "skills":[
@@ -149,7 +149,7 @@
     "testimonials":[
       {
         "text":"Hey you, you should hire this guy, he may be not yet fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Me !"
+        "user":"me"
       }
     ]
   }
