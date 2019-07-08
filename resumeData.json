@@ -117,7 +117,7 @@
         "title":"Movie Search",
         "category":"fetch db simple app",
         "image":"movie-search.png",
-        "url":"https://github.com/huudangdev/movie-search-db"
+        "url":"https://github.com/huudangdev/movies-Search-web-app"
       },
       {
         "title":"Weather App",
@@ -142,6 +142,12 @@
         "category":"what you are experiencing",
         "image":"screen-demo.png",
         "url":""
+      },
+      {
+        "title":"CRUD app",
+        "category":"ReactJs hooks simple app",
+        "image":"screen-demo.png",
+        "url":"https://huudangdev.github.io/CRUD-App/"
       }
     ]
   },
